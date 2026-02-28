@@ -22,7 +22,6 @@ A multi-threaded client-server application written in C++ for managing shared in
 - `client.cpp` – client logic
 - `InventoryManager.*` – inventory management functionality
 - `Item.*` – item representation
-- `students.txt` – sample data / test data
 
 ## How to Run
 1. Build the project using CMake.
